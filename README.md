@@ -43,6 +43,9 @@ The pipeline processes customer, product, and date data and creates a unified an
   - Higher activity is observed on **Friday and Sunday**, suggesting peak engagement periods.
   - Mid-week activity remains moderate and consistent.
 
+## 📷 Dashboard:
+https://dbc-aacedb75-c19f.cloud.databricks.com/dashboardsv3/01f14569bb341c2b86448cd9b92ba18b/published?o=7474659663676959
+
 ## 🔗 GitHub Usage
 You can find all SQL scripts and logic used in this project in this repository.
 
